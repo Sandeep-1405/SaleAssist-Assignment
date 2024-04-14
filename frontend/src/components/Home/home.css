@@ -1,0 +1,53 @@
+.bg{
+    background-color: black;
+    padding-bottom: 20px;
+}
+.para{
+    color: #E5DFD9;
+}
+.cards{
+    border-radius: 12px
+}
+.part2{
+    background-color: rgb(70, 69, 69);
+}
+.rupee{
+    padding-top: 6px;
+    height: 22px;
+    width: 20px;
+    margin-left: 10px;
+}
+.price{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+span{
+    color: green;
+    font-size: 12px;
+    font-weight: bold;
+}
+del{
+    font-size: 12px;
+    color: #E5DFD9;
+    font-weight: lighter;
+    
+}
+h6{
+    color: #E5DFD9;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.min-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media screen and (max-width:500px) {
+    .min-nav{
+        flex-direction: column;
+        justify-content: center;
+    }
+}
