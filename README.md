@@ -1,6 +1,6 @@
 # SaleAssist-Assignment
 
-## Technologies used React js, Css
+## Technologies used React JS, CSS, Bootstrap, Flex box
 
 ## Instructions for running the project
 
